@@ -4,7 +4,7 @@
 const nuevaString = 'Hola nuevo mundo';
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 2;
+const nuevoNum = 1;
 
 // Crea una variable booleana:
 const nuevoBool = true;
@@ -28,6 +28,7 @@ const nuevoModulo = 21 % 5 === 1.05;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
+  str( )
   
 }
 
